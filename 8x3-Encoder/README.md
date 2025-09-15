@@ -79,7 +79,7 @@ For 8-to-3 Encoder, the outputs can be expressed as:
 
 ## 📷 Project Images
 ## 📷 Project I
-![8x3 Encoder Setup](8x3 encoder.jpg)
+![8x3 Encoder Setup](8x3 encoder.jpg.png)
 
 
 ## 🎯 Learnings
