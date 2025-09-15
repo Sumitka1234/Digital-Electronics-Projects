@@ -52,7 +52,7 @@ For 8-to-3 Encoder, the outputs are:
 
 - 
 ## 📷 Project Images
-![8x3 Encoder Setup](encoder.jpg)
+![8x3 Encoder Setup](8x3 encoder.jpg.png)
 
 ---
 
